@@ -9,7 +9,7 @@ Project hub and curated exercises (work in progress).
 ## Featured
 
 - [ChessJava](https://github.com/CCC-Programoeba/ChessJava) — Java chess project
-- [Superweb](https://github.com/CCC-Programoeba/Superweb) — web project
+- [Superweb-CarlosCollado](https://github.com/CCC-Programoeba/Superweb-CarlosCollado) —  Shared web project
 - [Video Platform Manager](https://github.com/CCC-Programoeba/GestionPlataformaVideo) — Java OOP exercise
 
 ## All repositories

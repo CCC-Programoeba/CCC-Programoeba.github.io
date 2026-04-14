@@ -2,7 +2,7 @@
 
 Project hub and curated exercises (work in progress).
 
-## CV
+## Curriculum Vitae
 
 [View CV (PDF)](assets/CV_Carlos%20Collado.pdf)
 

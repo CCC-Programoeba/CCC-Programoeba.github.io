@@ -11,12 +11,12 @@ theme:
     - scheme: default
       toggle:
         icon: material/brightness-7
-        name: Cambiar a modo oscuro
+        name: A modo oscuro
 
     - scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Cambiar a modo claro
+        name: A modo claro
 
 extra_css:
   - stylesheets/extra.css

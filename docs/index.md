@@ -1,4 +1,15 @@
 # C-C-C Portfolio
+<div class="hero-logo-wrap">
+  <a
+    class="hero-logo-link"
+    href="https://github.com/CCC-Programoeba?tab=repositories"
+    target="_blank"
+    rel="noopener"
+    aria-label="Open GitHub repositories"
+  >
+    <img class="hero-logo" src="assets/ame.png" alt="C-C-C Portfolio logo">
+  </a>
+</div>
 
 <div class="hero-subtitle">
 Project hub and curated exercises. A growing collection of my work, experiments, and useful links.

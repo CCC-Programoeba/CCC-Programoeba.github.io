@@ -168,3 +168,44 @@ body {
     font-size: 2rem;
   }
 }
+.hero-logo-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 0.25rem 0 1.25rem;
+}
+
+.hero-logo-link {
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.hero-logo {
+  width: 132px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  border-radius: 50%;
+  animation: floatLogo 3.8s ease-in-out infinite;
+  transition: transform 0.22s ease, filter 0.22s ease;
+  filter: drop-shadow(0 10px 22px rgba(0, 0, 0, 0.25));
+}
+
+.hero-logo-link:hover .hero-logo {
+  transform: translateY(-6px) scale(1.04);
+  filter:
+    drop-shadow(0 0 10px rgba(96, 165, 250, 0.55))
+    drop-shadow(0 0 24px rgba(96, 165, 250, 0.35))
+    drop-shadow(0 12px 28px rgba(0, 0, 0, 0.32));
+}
+
+@keyframes floatLogo {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}

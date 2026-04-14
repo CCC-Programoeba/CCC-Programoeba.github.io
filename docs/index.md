@@ -21,7 +21,7 @@ Project hub and curated exercises. A growing collection of my work, experiments,
   <a class="hero-button" href="https://github.com/CCC-Programoeba/ChessJava">Featured project</a>
 </div>
 
-## Featured projects { .section-title }
+## === Featured projects === { .section-title }
 
 <div class="feature-grid">
   <a class="feature-card" href="https://github.com/CCC-Programoeba/ChessJava">
